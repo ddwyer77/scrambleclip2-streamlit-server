@@ -1,0 +1,17 @@
+[server]
+enableXsrfProtection = false
+enableCORS = false
+
+[runner]
+magicEnabled = true
+fastReruns = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#FFFFFF"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8F8F8"
+textColor = "#000000"
+font = "sans serif"
